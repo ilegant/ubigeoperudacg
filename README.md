@@ -1,5 +1,14 @@
-# ubigeoperudacg
+=== Ubigeo de Perú y Envíos ===
+Contributors: dacg
+Tags: ubigeo, perú, shipping, envíos, checkout
+Requires at least: 5.8
+Tested up to: 6.7.1
+Stable tag: 1.0
+License: GPLv2
+
 Widget wordpress para woocommerce para usar el ubigeo de Perú y a su vez configurar los envíos a todos los distritos de Perú.
+
+== Description ==
 
 INSTALACIÓN
 - Subir el zip a la sección de plugins de wordpress e instalarlo y activarlo
